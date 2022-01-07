@@ -2,4 +2,5 @@
 **/*.out
 **/*.o
 notes.md
-test/**
+ex00/whatever
+ex01/iter
