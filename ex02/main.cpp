@@ -6,21 +6,17 @@
 /*   By: lle-briq <lle-briq@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/07 18:38:45 by lle-briq          #+#    #+#             */
-/*   Updated: 2022/01/07 19:49:36 by lle-briq         ###   ########.fr       */
+/*   Updated: 2022/01/07 20:52:17 by lle-briq         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <ctime>
 #include <cstdlib>
-#include <Array.hpp>
 #include <iomanip>
+#include "Array.hpp"
 #define RED "\x1B[31m"
 #define GREEN "\x1B[32m"
-#define YELLOW "\x1B[33m"
-#define ORANGE "\x1B[34m"
-#define PURPLE "\x1B[35m"
-#define BLUE "\x1B[36m"
-#define END "\033[0m"
+#define END "\x1B[0m"
 #define BOLD "\x1B[1m"
 #define MAX_VAL 750
 #define SIZE 52
