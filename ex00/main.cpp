@@ -6,14 +6,14 @@
 /*   By: lle-briq <lle-briq@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/07 15:03:00 by lle-briq          #+#    #+#             */
-/*   Updated: 2022/01/07 17:11:41 by lle-briq         ###   ########.fr       */
+/*   Updated: 2022/03/28 16:59:16 by lle-briq         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "whatever.hpp"
 #include <iostream>
-# define YELLOW "\x1B[33m"
-# define END "\033[0m"
+#define YELLOW "\x1B[33m"
+#define END "\033[0m"
 
 int	main(void)
 {
